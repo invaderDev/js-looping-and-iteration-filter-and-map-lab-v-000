@@ -24,4 +24,8 @@ function exactMatchToList(drivers, condition) {
   });
 
   return matchingDrivers.map(function (driver) {return driver.name});
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 5f6b88505346607fbeecffaa1d9d13e74d97f676
